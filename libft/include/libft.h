@@ -1,5 +1,5 @@
 #ifndef LIBFT_H
-#define FLIBFT_H
+#define LIBFT_H
 
 #include <stdio.h>
 
