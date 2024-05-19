@@ -22,8 +22,8 @@
     - [x] memcmp
     - [x] strnstr
     - [x] atoi
-    - [ ] calloc
-    - [ ] strdup
+    - [x] calloc
+    - [x] strdup
 - [ ] Additional
     - [ ] ft_substr
     - [ ] ft_strjoin
